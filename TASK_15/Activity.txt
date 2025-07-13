@@ -1,0 +1,2 @@
+Download and import following file in VS Code:
+Media Query task for color change in large and small devices

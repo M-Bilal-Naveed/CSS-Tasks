@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+div {
+    background-color: black;
+    height: 50px;
+    border-style: double;
+    border-color: white;  
+}
+#a {
+    color: orange;
+    text-decoration: none;
+    margin-left: 0px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 80px;
+}
+input {
+    
+}
+button {
+    background-color: #f08804;
+    color: white;
+}

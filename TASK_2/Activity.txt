@@ -1,0 +1,1 @@
+Extract following file and open it in VS Code. Apply proper styling to the elements using the selectors and CSS attributes:

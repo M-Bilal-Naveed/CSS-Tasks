@@ -1,0 +1,2 @@
+The outcome should look something like: 
+ Two adjacent borders of images having some content inside and boarder also

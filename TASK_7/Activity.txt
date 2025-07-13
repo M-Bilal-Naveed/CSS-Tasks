@@ -1,0 +1,8 @@
+Inspection of CSS in Chrome
+
+Activity
+
+- Use Google Chrome to check the properties being applied on your webpage
+- Check the “Computed” Tab and “Styles” Tab
+- Go to “More Tools” and Explore “CSS Overview”
+- Write down your observations for your reference

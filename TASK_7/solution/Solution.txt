@@ -1,0 +1,1 @@
+The inspection in web give us the view source code of html and css for testing and dynamics changes make with it. Use to check styling of a web page or website.

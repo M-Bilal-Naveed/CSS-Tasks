@@ -1,0 +1,2 @@
+The outcome should look something like
+All tags show with different text properties
